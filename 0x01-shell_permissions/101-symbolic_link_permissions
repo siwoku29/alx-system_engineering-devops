@@ -1,2 +1,2 @@
 #!/bin/bash
-chown -h vincent:staff _hello (we are being specific to a file thats why we use -h)
+chown -h vincent:staff _hello
