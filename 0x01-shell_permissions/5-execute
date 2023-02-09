@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod u+x working_directory/hello.
+chmod u+x hello
